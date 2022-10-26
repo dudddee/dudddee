@@ -9,7 +9,8 @@ Some professors in my uni recommended it, but I don't know if it is as effective
 Please, if you have any good source material for an absolute begginer like me, don't hesitate to tell me in any way
 (have no idea how direct communication works in github, but i can learn it)
 
-Anyways, i expect to create awesome things around here, especially in my graduation area, which is ✨biotechnology✨
+Anyways, i expect to create awesome things around here, especially in my graduation area, which is
+✨biotechnology✨
 I've put all my chips in this area, cus i think renewable energy, genetic manipulation and assisted evolution are the future
 Hope to get to know some of you and contribute to your projects as much as you might help me, to the full extent of my capacities
 That's all for now!
