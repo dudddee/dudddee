@@ -1,4 +1,5 @@
-- Hey, if you happened to come across my readme, I’m @dudddee
+Hey, if you happened to come across my readme, I’m @dudddee \n
+
 - I imagine this first line is kind of a commonplace, so i will keep it simple like that
 
 - So, the thing is, I just started learning Python, more accurately, an hour ago
