@@ -1,4 +1,4 @@
-Hey, if you happened to come across my readme, I’m @dudddee \n
+Hey, if you happened to come across my readme, I’m @dudddee /n
 
 - I imagine this first line is kind of a commonplace, so i will keep it simple like that
 
