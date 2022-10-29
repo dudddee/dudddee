@@ -1,0 +1,12 @@
+ok
+learned about 2 new functions, open() and read()
+basically they open the possibility of crawling into other .txt files (maybe other types but i'm not sure)
+
+suppose a file.txt file
+
+if i get the name of the file by input or argv i can store it
+filename = input() --> gets the name of the file (is the name stored in a string?)
+txt = open(filename) --> opens the file of given name and stores the content in txt
+print(txt.read()) --> reads the text inside txt and prints it out
+
+this is actually crazy
