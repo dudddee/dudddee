@@ -1,0 +1,16 @@
+argument variable is incredibly strange
+i don't get how the name of the file gets recognized by the argv
+
+one more thing, giving a symbol to prompt entries is very useful
+like
+
+prompt = '> '
+print("question?")
+answer = input(prompt)
+
+gets the shell to do
+
+question?
+> xxxxxxx
+
+that's very nice
