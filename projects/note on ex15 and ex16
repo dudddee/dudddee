@@ -10,3 +10,7 @@ txt = open(filename) --> opens the file of given name and stores the content in 
 print(txt.read()) --> reads the text inside txt and prints it out
 
 this is actually crazy
+
+NEW
+the parameter 'w' in open function opens the file in writing mode, which truncates it (deletes content) and leaves it open
+then, i can write in it with the .write method, which takes just 1 parameter
