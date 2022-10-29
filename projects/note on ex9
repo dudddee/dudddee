@@ -1,0 +1,9 @@
+now, there's a way to break lines
+\n gets the text to the next line, that's cool
+
+also
+print("""
+asudnaousdnjkansdckjnakjcnkasndkjcnaskjdn
+""")
+
+three double-quotes create a line independent string
