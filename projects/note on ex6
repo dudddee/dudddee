@@ -1,0 +1,9 @@
+ok
+
+i didn't figure out still how .format() works
+
+the new thing is, {} inside a string acts as a placeholder, right?
+
+storing a string inside a variable and giving it a placeholder let's me substitute that placeholder
+
+then, what i understand is, if i attach .format(x) to the variable, the placeholder gets substituted by x
