@@ -19,3 +19,8 @@ file_again = input("> ")
 txt_again = open(file_again)
 
 print(txt_again.read())
+
+#it is important to close files after being done with them
+txt.close()
+txt_again.close()
+#NOTE: call close to the opened variables
